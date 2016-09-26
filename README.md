@@ -1,5 +1,6 @@
 SaveToPhotoAlbumPhonegapPlugin
 ==============================
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Save an image to Photo library
 
